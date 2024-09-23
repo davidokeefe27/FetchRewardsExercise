@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchRewardsExercise</string>
+    <string name="list_id_string">List ID: %d</string>
+</resources>
